@@ -18,8 +18,8 @@ An interactive Streamlit app to visualize, compare, and analyze machine learning
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/yourusername/ml-classifier-explorer.git
-   cd ml-classifier-explorer
+   git clone https://github.com/Retwika/ML-Models.git
+   cd ML-Models
    ```
 
 2. Install dependencies:
@@ -28,8 +28,8 @@ An interactive Streamlit app to visualize, compare, and analyze machine learning
    ```
    or, with conda:
    ```sh
-   conda create -n ml-explorer python=3.9
-   conda activate ml-explorer
+   conda create -n ML-Models python=3.9
+   conda activate ML-Models
    pip install -r requirements.txt
    ```
 

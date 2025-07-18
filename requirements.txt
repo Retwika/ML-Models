@@ -1,0 +1,12 @@
+streamlit>=1.25.0
+scikit-learn>=1.2
+pandas>=1.5
+numpy>=1.24
+matplotlib>=3.7
+seaborn>=0.12
+bokeh==2.4.3
+xgboost>=1.7
+lightgbm>=4.0
+catboost>=1.2
+plotly>=5.0
+fpdf>=1.7

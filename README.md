@@ -1,4 +1,4 @@
-# ML Classifier Explorer
+# ML Model Explorer
 
 An interactive Streamlit app to visualize, compare, and analyze machine learning classifiers and their decision boundaries.
 
